@@ -5,4 +5,4 @@ https://www.overleaf.com/project
 
 - Latest projects are added on completion only
 
-- Contribution are open for any corrections.
+- Contributions are open for any corrections.
